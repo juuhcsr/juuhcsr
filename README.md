@@ -5,6 +5,9 @@
 
 ![juuhcsr GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juuhcsr&theme=dracula) ![juuhcsr GitHub stats](https://github-readme-stats.vercel.app/api?username=juuhcsr&show_icons=true&theme=dracula&count_private=true)
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juuhcsr&bg_color=716f70&color=ffffff&line=32d235&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 Linguagens mais utilizadas 
 
 

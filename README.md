@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
     <p align="rigth">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,docker,git,django,mysql,py,css,html,js" />
+    <img src="https://skillicons.dev/icons?i=gcp,docker,git,django,java" />
   </a>
 </p>
 </div>

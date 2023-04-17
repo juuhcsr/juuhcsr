@@ -5,22 +5,21 @@
 
 ![juuhcsr GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juuhcsr&theme=dracula) ![juuhcsr GitHub stats](https://github-readme-stats.vercel.app/api?username=juuhcsr&show_icons=true&theme=dracula&count_private=true)
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juuhcsr&bg_color=716f70&color=ffffff&line=32d235&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 Linguagens mais utilizadas 
 
 
 ## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block">
-  <img align="center" alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</div><br/>
+</div>
+<div style="display: inline_block"><br>
+    <p align="rigth">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,docker,git,django,mysql,py,css,html,js" />
+  </a>
+</p>
+</div>
+
+---
 
 O hoje é real
 
